@@ -1,0 +1,8 @@
+const CALENDAR_CONFIG = {
+  apiKey: '',
+  calendarId: '',
+};
+
+export {
+  CALENDAR_CONFIG
+}
