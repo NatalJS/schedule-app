@@ -3,6 +3,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import Store from './Store';
 import Schedule from './components/Schedule';
+import './scss/index.scss';
 
 class ScheduleManager {
   constructor() {

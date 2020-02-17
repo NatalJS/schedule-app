@@ -1,0 +1,34 @@
+@import 'variables.scss';
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+@import url("https://fonts.googleapis.com/css?family=Nunito:300,400,600,700");
+@import url("https://fonts.googleapis.com/css?family=Advent+Pro:500,600,700");
+
+
+@import 'bootstrap/scss/bootstrap-grid.scss';
+@import 'bootstrap/scss/bootstrap-reboot.scss';
+@import 'bootstrap/scss/utilities';
+//@import 'bootstrap/scss/transitions';
+//@import 'bootstrap/scss/tooltip';
+//@import 'bootstrap/scss/modal';
+
+@import 'schedule.scss';
+
+
+body {
+  background-color: #F9F8F4;
+  font-family: 'Advent Pro', sans-serif;
+}
+
+ul {
+  margin: 0px;
+  padding: 0px;
+}
+
+p {
+  font-family: 'Nunito', 'Helvetica Neue', sans-serif !important;
+}
+
+a.disabled {
+  opacity: 0.5;
+  pointer-events: none;
+}
