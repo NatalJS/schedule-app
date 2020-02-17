@@ -25,7 +25,9 @@ class Schedule extends React.Component {
   }
 
   componentDidMount() {
-    const anchorsOffset = document.querySelector('.filters').getBoundingClientRect().height;
+    // FIXME(ja0n): is this needed?
+    const anchorsOffset = 0;
+
     this.anchors = new ScrollNavigation({
       offset: -anchorsOffset - 120
     });
@@ -48,7 +50,9 @@ class Schedule extends React.Component {
 
   render() {
     const { store } = this.props;
-    const stickyOffset = document.querySelector('.header__nav').getBoundingClientRect().height;
+    // FIXME(ja0n): is this needed?
+    const stickyOffset = 0;
+
     return (
       <StickyContainer>
         <Sticky topOffset={-stickyOffset}>
