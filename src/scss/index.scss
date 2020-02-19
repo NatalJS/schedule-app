@@ -13,6 +13,16 @@
 
 @import 'schedule.scss';
 
+html {
+  font-size: 10px;
+}
+
+
+@media only screen and (min-width: $breakpoint-sm) {
+  html {
+    font-size: 14px;
+  }
+}
 
 body {
   background-color: #F9F8F4;
