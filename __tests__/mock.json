@@ -1,0 +1,435 @@
+{
+  "kind": "calendar#events",
+  "etag": "\"p338c71tjm7gec0g\"",
+  "summary": "foo Test [14]",
+  "description": "A Evento é o maior evento sobre linguagem de programação. Edição 14, 2018.",
+  "updated": "2019-12-31T17:14:06.274Z",
+  "timeZone": "America/Sao_Paulo",
+  "accessRole": "reader",
+  "defaultReminders": [],
+  "nextSyncToken": "CNDDh7Ox4OYCEAAYAQ==",
+  "items": [
+    {
+      "kind": "calendar#event",
+      "etag": "\"3071954497924000\"",
+      "id": "55s8ol3lqvceugbi3842tostq4",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=NTVzOG9sM2xxdmNldWdiaTM4NDJ0b3N0cTQgcHl0aG9uLm9yZy5icl9tN2U1dGJuYmRrYWpyZXJlNWtkMXN1ZTJiMEBn",
+      "created": "2018-08-09T17:36:51.000Z",
+      "updated": "2018-09-03T12:20:48.962Z",
+      "summary": "Bar",
+      "creator": {
+        "email": "test@foo.org.br"
+      },
+      "organizer": {
+        "email": "foo.org.br_m7e5tbnbdkajrere5kd1sue2b0@group.calendar.google.com",
+        "displayName": "foo Test [14]",
+        "self": true
+      },
+      "start": {
+        "dateTime": "2018-10-17T12:00:00-03:00"
+      },
+      "end": {
+        "dateTime": "2018-10-17T14:00:00-03:00"
+      },
+      "transparency": "transparent",
+      "iCalUID": "55s8ol3lqvceugbi3842tostq4@google.com",
+      "sequence": 2,
+      "extendedProperties": {
+        "private": {
+          "everyoneDeclinedDismissed": "-1"
+        }
+      },
+      "guestsCanInviteOthers": false,
+      "guestsCanSeeOtherGuests": false
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"3071957750160000\"",
+      "id": "32qpioeubnds6ouh3maags8na5",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MzJxcGlvZXVibmRzNm91aDNtYWFnczhuYTUgcHl0aG9uLm9yZy5icl9tN2U1dGJuYmRrYWpyZXJlNWtkMXN1ZTJiMEBn",
+      "created": "2018-08-10T12:38:50.000Z",
+      "updated": "2018-09-03T12:47:55.080Z",
+      "summary": "Bar",
+      "creator": {
+        "email": "test@foo.org.br"
+      },
+      "organizer": {
+        "email": "foo.org.br_m7e5tbnbdkajrere5kd1sue2b0@group.calendar.google.com",
+        "displayName": "foo Test [14]",
+        "self": true
+      },
+      "start": {
+        "dateTime": "2018-10-18T12:00:00-03:00"
+      },
+      "end": {
+        "dateTime": "2018-10-18T14:00:00-03:00"
+      },
+      "transparency": "transparent",
+      "iCalUID": "32qpioeubnds6ouh3maags8na5@google.com",
+      "sequence": 1,
+      "extendedProperties": {
+        "private": {
+          "everyoneDeclinedDismissed": "-1"
+        }
+      },
+      "guestsCanInviteOthers": false,
+      "guestsCanSeeOtherGuests": false
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"3078534014706000\"",
+      "id": "0qfkj2gi0343c9ajqao5hqqvqr",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MHFma2oyZ2kwMzQzYzlhanFhbzVocXF2cXIgcHl0aG9uLm9yZy5icl9tN2U1dGJuYmRrYWpyZXJlNWtkMXN1ZTJiMEBn",
+      "created": "2018-08-10T12:40:36.000Z",
+      "updated": "2018-10-11T14:10:07.353Z",
+      "summary": "Bar",
+      "creator": {
+        "email": "test@foo.org.br"
+      },
+      "organizer": {
+        "email": "foo.org.br_m7e5tbnbdkajrere5kd1sue2b0@group.calendar.google.com",
+        "displayName": "foo Test [14]",
+        "self": true
+      },
+      "start": {
+        "dateTime": "2018-10-21T12:05:00-03:00"
+      },
+      "end": {
+        "dateTime": "2018-10-21T13:40:00-03:00"
+      },
+      "transparency": "transparent",
+      "iCalUID": "0qfkj2gi0343c9ajqao5hqqvqr@google.com",
+      "sequence": 1,
+      "extendedProperties": {
+        "private": {
+          "everyoneDeclinedDismissed": "-1"
+        }
+      },
+      "guestsCanInviteOthers": false,
+      "guestsCanSeeOtherGuests": false
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"3078536363232000\"",
+      "id": "68umpus87qiv7ugg3hterdhvo0",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=Njh1bXB1czg3cWl2N3VnZzNodGVyZGh2bzAgcHl0aG9uLm9yZy5icl9tN2U1dGJuYmRrYWpyZXJlNWtkMXN1ZTJiMEBn",
+      "created": "2018-08-10T12:40:12.000Z",
+      "updated": "2018-10-11T14:29:41.616Z",
+      "summary": "Bar",
+      "creator": {
+        "email": "test@foo.org.br"
+      },
+      "organizer": {
+        "email": "foo.org.br_m7e5tbnbdkajrere5kd1sue2b0@group.calendar.google.com",
+        "displayName": "foo Test [14]",
+        "self": true
+      },
+      "start": {
+        "dateTime": "2018-10-19T12:05:00-03:00"
+      },
+      "end": {
+        "dateTime": "2018-10-19T13:40:00-03:00"
+      },
+      "transparency": "transparent",
+      "iCalUID": "68umpus87qiv7ugg3hterdhvo0@google.com",
+      "sequence": 1,
+      "extendedProperties": {
+        "private": {
+          "everyoneDeclinedDismissed": "-1"
+        }
+      },
+      "guestsCanInviteOthers": false,
+      "guestsCanSeeOtherGuests": false
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"3078537137486000\"",
+      "id": "524q11881i82oetg9runfrnc49",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=NTI0cTExODgxaTgyb2V0ZzlydW5mcm5jNDkgcHl0aG9uLm9yZy5icl9tN2U1dGJuYmRrYWpyZXJlNWtkMXN1ZTJiMEBn",
+      "created": "2018-08-10T12:40:20.000Z",
+      "updated": "2018-10-11T14:36:08.743Z",
+      "summary": "Bar",
+      "creator": {
+        "email": "test@foo.org.br"
+      },
+      "organizer": {
+        "email": "foo.org.br_m7e5tbnbdkajrere5kd1sue2b0@group.calendar.google.com",
+        "displayName": "foo Test [14]",
+        "self": true
+      },
+      "start": {
+        "dateTime": "2018-10-20T12:05:00-03:00"
+      },
+      "end": {
+        "dateTime": "2018-10-20T13:40:00-03:00"
+      },
+      "transparency": "transparent",
+      "iCalUID": "524q11881i82oetg9runfrnc49@google.com",
+      "sequence": 1,
+      "extendedProperties": {
+        "private": {
+          "everyoneDeclinedDismissed": "-1"
+        }
+      },
+      "guestsCanInviteOthers": false,
+      "guestsCanSeeOtherGuests": false
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"3078889991360000\"",
+      "id": "2jrcm2bb1hjptu3c313cksg3d5",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MmpyY20yYmIxaGpwdHUzYzMxM2Nrc2czZDUgcHl0aG9uLm9yZy5icl9tN2U1dGJuYmRrYWpyZXJlNWtkMXN1ZTJiMEBn",
+      "created": "2018-08-09T17:17:15.000Z",
+      "updated": "2018-10-13T15:36:35.680Z",
+      "summary": "2 anos de trabalho remoto - o lado bom e os problemas",
+      "description": "John Doe | Lorem ipsum dolor sit amet | TypeA | CategoryA",
+      "location": "Sala Jerimum",
+      "creator": {
+        "email": "test@foo.org.br"
+      },
+      "organizer": {
+        "email": "foo.org.br_m7e5tbnbdkajrere5kd1sue2b0@group.calendar.google.com",
+        "displayName": "foo Test [14]",
+        "self": true
+      },
+      "start": {
+        "dateTime": "2018-10-19T10:05:00-03:00"
+      },
+      "end": {
+        "dateTime": "2018-10-19T10:35:00-03:00"
+      },
+      "transparency": "transparent",
+      "iCalUID": "2jrcm2bb1hjptu3c313cksg3d5@google.com",
+      "sequence": 5,
+      "extendedProperties": {
+        "private": {
+          "everyoneDeclinedDismissed": "-1"
+        }
+      },
+      "guestsCanInviteOthers": false,
+      "guestsCanSeeOtherGuests": false
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"3078890305922000\"",
+      "id": "7q4n5jvh5ig3ahi4jtn7jjn5aq",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=N3E0bjVqdmg1aWczYWhpNGp0bjdqam41YXEgcHl0aG9uLm9yZy5icl9tN2U1dGJuYmRrYWpyZXJlNWtkMXN1ZTJiMEBn",
+      "created": "2018-08-10T13:01:10.000Z",
+      "updated": "2018-10-13T15:39:12.961Z",
+      "summary": "Perdendo o medo da Web com Django",
+      "description": "John Doe | Lorem ipsum dolor sit amet | TypeA | CategoryA",
+      "location": "Sala Rapadura",
+      "creator": {
+        "email": "test@foo.org.br"
+      },
+      "organizer": {
+        "email": "foo.org.br_m7e5tbnbdkajrere5kd1sue2b0@group.calendar.google.com",
+        "displayName": "foo Test [14]",
+        "self": true
+      },
+      "start": {
+        "dateTime": "2018-10-19T10:05:00-03:00"
+      },
+      "end": {
+        "dateTime": "2018-10-19T10:35:00-03:00"
+      },
+      "transparency": "transparent",
+      "iCalUID": "7q4n5jvh5ig3ahi4jtn7jjn5aq@google.com",
+      "sequence": 3,
+      "extendedProperties": {
+        "private": {
+          "everyoneDeclinedDismissed": "-1"
+        }
+      },
+      "guestsCanInviteOthers": false,
+      "guestsCanSeeOtherGuests": false
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"3078890334424000\"",
+      "id": "1e9hainkq8ll4jqp9sq0hituua",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MWU5aGFpbmtxOGxsNGpxcDlzcTBoaXR1dWEgcHl0aG9uLm9yZy5icl9tN2U1dGJuYmRrYWpyZXJlNWtkMXN1ZTJiMEBn",
+      "created": "2018-08-10T13:05:18.000Z",
+      "updated": "2018-10-13T15:39:27.212Z",
+      "summary": "O casamento sagrado entre o Pipfile, pip e Virtualenv",
+      "description": "John Doe | Lorem ipsum dolor sit amet | TypeA | CategoryA",
+      "location": "Sala Macaxeira",
+      "creator": {
+        "email": "test@foo.org.br"
+      },
+      "organizer": {
+        "email": "foo.org.br_m7e5tbnbdkajrere5kd1sue2b0@group.calendar.google.com",
+        "displayName": "foo Test [14]",
+        "self": true
+      },
+      "start": {
+        "dateTime": "2018-10-19T10:05:00-03:00"
+      },
+      "end": {
+        "dateTime": "2018-10-19T10:35:00-03:00"
+      },
+      "transparency": "transparent",
+      "iCalUID": "1e9hainkq8ll4jqp9sq0hituua@google.com",
+      "sequence": 1,
+      "extendedProperties": {
+        "private": {
+          "everyoneDeclinedDismissed": "-1"
+        }
+      },
+      "guestsCanInviteOthers": false,
+      "guestsCanSeeOtherGuests": false
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"3078890461650000\"",
+      "id": "3s42e55knet2nb177vuliijbat",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=M3M0MmU1NWtuZXQybmIxNzd2dWxpaWpiYXQgcHl0aG9uLm9yZy5icl9tN2U1dGJuYmRrYWpyZXJlNWtkMXN1ZTJiMEBn",
+      "created": "2018-08-10T11:44:29.000Z",
+      "updated": "2018-10-13T15:40:30.825Z",
+      "summary": "Ansible 101",
+      "description": "John Doe | Lorem ipsum dolor sit amet | TypeA | CategoryA",
+      "location": "Sala Macaxeira",
+      "creator": {
+        "email": "test@foo.org.br"
+      },
+      "organizer": {
+        "email": "foo.org.br_m7e5tbnbdkajrere5kd1sue2b0@group.calendar.google.com",
+        "displayName": "foo Test [14]",
+        "self": true
+      },
+      "start": {
+        "dateTime": "2018-10-19T10:35:00-03:00"
+      },
+      "end": {
+        "dateTime": "2018-10-19T11:05:00-03:00"
+      },
+      "transparency": "transparent",
+      "iCalUID": "3s42e55knet2nb177vuliijbat@google.com",
+      "sequence": 4,
+      "extendedProperties": {
+        "private": {
+          "everyoneDeclinedDismissed": "-1"
+        }
+      },
+      "guestsCanInviteOthers": false,
+      "guestsCanSeeOtherGuests": false
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"3078890559562000\"",
+      "id": "5krsqtl84ebaeqtpvq1aom4m13",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=NWtyc3F0bDg0ZWJhZXF0cHZxMWFvbTRtMTMgcHl0aG9uLm9yZy5icl9tN2U1dGJuYmRrYWpyZXJlNWtkMXN1ZTJiMEBn",
+      "created": "2018-08-10T13:02:48.000Z",
+      "updated": "2018-10-13T15:41:19.781Z",
+      "summary": "Criando clients inteligentes com o simple-rest-client",
+      "description": "John Doe | Lorem ipsum dolor sit amet | TypeB | CategoryB",
+      "location": "Sala Rapadura",
+      "creator": {
+        "email": "test@foo.org.br"
+      },
+      "organizer": {
+        "email": "foo.org.br_m7e5tbnbdkajrere5kd1sue2b0@group.calendar.google.com",
+        "displayName": "foo Test [14]",
+        "self": true
+      },
+      "start": {
+        "dateTime": "2018-10-19T10:35:00-03:00"
+      },
+      "end": {
+        "dateTime": "2018-10-19T11:05:00-03:00"
+      },
+      "transparency": "transparent",
+      "iCalUID": "5krsqtl84ebaeqtpvq1aom4m13@google.com",
+      "sequence": 2,
+      "extendedProperties": {
+        "private": {
+          "everyoneDeclinedDismissed": "-1"
+        }
+      },
+      "guestsCanInviteOthers": false,
+      "guestsCanSeeOtherGuests": false
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"3078890580888000\"",
+      "id": "7fg7qdrsmnijf8bj3u2l5c7qhi",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=N2ZnN3FkcnNtbmlqZjhiajN1Mmw1YzdxaGkgcHl0aG9uLm9yZy5icl9tN2U1dGJuYmRrYWpyZXJlNWtkMXN1ZTJiMEBn",
+      "created": "2018-08-09T17:40:02.000Z",
+      "updated": "2018-10-13T15:41:30.444Z",
+      "summary": "Web crawling e scraping com Scrapy e Scrapy Cloud",
+      "description": "John Doe | Lorem ipsum dolor sit amet | TypeB | CategoryB",
+      "location": "Sala Tapioca",
+      "creator": {
+        "email": "test@foo.org.br"
+      },
+      "organizer": {
+        "email": "foo.org.br_m7e5tbnbdkajrere5kd1sue2b0@group.calendar.google.com",
+        "displayName": "foo Test [14]",
+        "self": true
+      },
+      "start": {
+        "dateTime": "2018-10-19T10:35:00-03:00"
+      },
+      "end": {
+        "dateTime": "2018-10-19T11:05:00-03:00"
+      },
+      "transparency": "transparent",
+      "iCalUID": "7fg7qdrsmnijf8bj3u2l5c7qhi@google.com",
+      "sequence": 5,
+      "extendedProperties": {
+        "private": {
+          "everyoneDeclinedDismissed": "-1"
+        }
+      },
+      "guestsCanInviteOthers": false,
+      "guestsCanSeeOtherGuests": false
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"3078891199578000\"",
+      "id": "7npg1d1udf7qlvrcquoumjkbnt",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=N25wZzFkMXVkZjdxbHZyY3F1b3VtamtibnQgcHl0aG9uLm9yZy5icl9tN2U1dGJuYmRrYWpyZXJlNWtkMXN1ZTJiMEBn",
+      "created": "2018-08-10T14:11:07.000Z",
+      "updated": "2018-10-13T15:46:39.789Z",
+      "summary": "Que belo dia para a ciência!",
+      "description": "John Doe | Lorem ipsum dolor sit amet | TypeC | CategoryC",
+      "location": "Sala Tapioca",
+      "creator": {
+        "email": "test@foo.org.br"
+      },
+      "organizer": {
+        "email": "foo.org.br_m7e5tbnbdkajrere5kd1sue2b0@group.calendar.google.com",
+        "displayName": "foo Test [14]",
+        "self": true
+      },
+      "start": {
+        "dateTime": "2018-10-21T10:05:00-03:00"
+      },
+      "end": {
+        "dateTime": "2018-10-21T10:35:00-03:00"
+      },
+      "transparency": "transparent",
+      "iCalUID": "7npg1d1udf7qlvrcquoumjkbnt@google.com",
+      "sequence": 2,
+      "extendedProperties": {
+        "private": {
+          "everyoneDeclinedDismissed": "-1"
+        }
+      },
+      "guestsCanInviteOthers": false,
+      "guestsCanSeeOtherGuests": false
+    }
+  ]
+}

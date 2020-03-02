@@ -13,7 +13,7 @@ class Store extends React.Component {
       searchFilter: '',
       isShowingAdvancedFilters: false
     }
-    
+
     this.actions = {
       onCategoryFilterChange: this.onFilterChange.bind(this, 'categoryFilter'),
       onTypeFilterChange: this.onFilterChange.bind(this, 'typeFilter'),
@@ -71,7 +71,7 @@ class Store extends React.Component {
             const [ duration, requirements, description ] = params;
             pybrEvent.details = { ...pybrEvent.details, duration, requirements, description }
             break;
-          case undefined:
+          default:
             pybrEvent.details = { eventType: 'Sprints', description: name };
             break;
         }

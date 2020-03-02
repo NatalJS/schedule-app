@@ -1,0 +1,549 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Snapshot testing 1`] = `
+<div
+  onScroll={[Function]}
+  onTouchEnd={[Function]}
+  onTouchMove={[Function]}
+  onTouchStart={[Function]}
+>
+  <div>
+    <div />
+    <div
+      className="filters"
+      style={
+        Object {
+          "top": 0,
+        }
+      }
+    >
+      <ul
+        className="accordion-tabs schedule_category_days"
+      >
+        <li
+          className="tab-header-and-content"
+        >
+          <a
+            className="tab-link scroll"
+            href="#day17"
+          >
+            17
+          </a>
+        </li>
+        <li
+          className="tab-header-and-content"
+        >
+          <a
+            className="tab-link scroll"
+            href="#day18"
+          >
+            18
+          </a>
+        </li>
+        <li
+          className="tab-header-and-content"
+        >
+          <a
+            className="tab-link scroll"
+            href="#day19"
+          >
+            19
+          </a>
+        </li>
+        <li
+          className="tab-header-and-content"
+        >
+          <a
+            className="tab-link scroll"
+            href="#day20"
+          >
+            20
+          </a>
+        </li>
+        <li
+          className="tab-header-and-content"
+        >
+          <a
+            className="tab-link scroll"
+            href="#day21"
+          >
+            21
+          </a>
+        </li>
+      </ul>
+      <div
+        className="filter-box"
+      >
+        <form
+          className="filters-search"
+          onSubmit={[Function]}
+        >
+          <i
+            className="material-icons"
+          >
+            search
+          </i>
+          <input
+            onChange={[Function]}
+            placeholder="Pesquisar palestra, autor..."
+            value=""
+          />
+        </form>
+        <button
+          className="filters-button"
+          onClick={[Function]}
+        >
+          <i
+            className="material-icons"
+          >
+            filter_list
+          </i>
+        </button>
+      </div>
+    </div>
+  </div>
+  <div
+    id="day17"
+  >
+    <div
+      className="day-separator tab-link"
+    >
+      Dia 
+      17
+       – 
+      <span>
+        Tutoriais
+      </span>
+    </div>
+    <article
+      className="schedule_article"
+    >
+      <h5
+        className="schedule_time"
+      >
+        12h00
+      </h5>
+      <div
+        className="picture-container"
+      >
+        <div
+          className="schedule_picture"
+        />
+      </div>
+      <div
+        className="row w-100"
+      >
+        <div
+          className="schedule_info col-xl-3 col-lg-6 col-sm-12"
+        >
+          <h2
+            className="schedule_name w-100"
+          >
+            Bar
+          </h2>
+        </div>
+      </div>
+    </article>
+  </div>
+  <div
+    id="day18"
+  >
+    <div
+      className="day-separator tab-link"
+    >
+      Dia 
+      18
+       – 
+      <span>
+        Tutoriais
+      </span>
+    </div>
+    <article
+      className="schedule_article"
+    >
+      <h5
+        className="schedule_time"
+      >
+        12h00
+      </h5>
+      <div
+        className="picture-container"
+      >
+        <div
+          className="schedule_picture"
+        />
+      </div>
+      <div
+        className="row w-100"
+      >
+        <div
+          className="schedule_info col-xl-3 col-lg-6 col-sm-12"
+        >
+          <h2
+            className="schedule_name w-100"
+          >
+            Bar
+          </h2>
+        </div>
+      </div>
+    </article>
+  </div>
+  <div
+    id="day19"
+  >
+    <div
+      className="day-separator tab-link"
+    >
+      Dia 
+      19
+       – 
+      <span>
+        Palestras
+      </span>
+    </div>
+    <article
+      className="schedule_article"
+    >
+      <h5
+        className="schedule_time"
+      >
+        10h05
+      </h5>
+      <div
+        className="picture-container"
+      >
+        <div
+          className="schedule_picture"
+        />
+      </div>
+      <div
+        className="row w-100"
+      >
+        <div
+          className="schedule_info col-xl-3 col-lg-6 col-sm-12 schedule-highlight"
+        >
+          <h2
+            className="schedule_name"
+          >
+            2 anos de trabalho remoto - o lado bom e os problemas
+          </h2>
+          <h3
+            className="schedule_speaker"
+          >
+            John Doe
+          </h3>
+          <h4
+            className="schedule_location"
+          >
+            <i
+              className="material-icons"
+            >
+              location_on
+            </i>
+            Sala Jerimum
+          </h4>
+        </div>
+        <div
+          className="schedule_info col-xl-3 col-lg-6 col-sm-12 schedule-highlight"
+        >
+          <h2
+            className="schedule_name"
+          >
+            O casamento sagrado entre o Pipfile, pip e Virtualenv
+          </h2>
+          <h3
+            className="schedule_speaker"
+          >
+            John Doe
+          </h3>
+          <h4
+            className="schedule_location"
+          >
+            <i
+              className="material-icons"
+            >
+              location_on
+            </i>
+            Sala Macaxeira
+          </h4>
+        </div>
+        <div
+          className="schedule_info col-xl-3 col-lg-6 col-sm-12 schedule-highlight"
+        >
+          <h2
+            className="schedule_name"
+          >
+            Perdendo o medo da Web com Django
+          </h2>
+          <h3
+            className="schedule_speaker"
+          >
+            John Doe
+          </h3>
+          <h4
+            className="schedule_location"
+          >
+            <i
+              className="material-icons"
+            >
+              location_on
+            </i>
+            Sala Rapadura
+          </h4>
+        </div>
+      </div>
+    </article>
+    <article
+      className="schedule_article"
+    >
+      <h5
+        className="schedule_time"
+      >
+        10h35
+      </h5>
+      <div
+        className="picture-container"
+      >
+        <div
+          className="schedule_picture"
+        />
+      </div>
+      <div
+        className="row w-100"
+      >
+        <div
+          className="schedule_info col-xl-3 col-lg-6 col-sm-12 schedule-highlight"
+        >
+          <h2
+            className="schedule_name"
+          >
+            Ansible 101
+          </h2>
+          <h3
+            className="schedule_speaker"
+          >
+            John Doe
+          </h3>
+          <h4
+            className="schedule_location"
+          >
+            <i
+              className="material-icons"
+            >
+              location_on
+            </i>
+            Sala Macaxeira
+          </h4>
+        </div>
+        <div
+          className="schedule_info col-xl-3 col-lg-6 col-sm-12 schedule-highlight"
+        >
+          <h2
+            className="schedule_name"
+          >
+            Criando clients inteligentes com o simple-rest-client
+          </h2>
+          <h3
+            className="schedule_speaker"
+          >
+            John Doe
+          </h3>
+          <h4
+            className="schedule_location"
+          >
+            <i
+              className="material-icons"
+            >
+              location_on
+            </i>
+            Sala Rapadura
+          </h4>
+        </div>
+        <div
+          className="schedule_info col-xl-3 col-lg-6 col-sm-12 schedule-highlight"
+        >
+          <h2
+            className="schedule_name"
+          >
+            Web crawling e scraping com Scrapy e Scrapy Cloud
+          </h2>
+          <h3
+            className="schedule_speaker"
+          >
+            John Doe
+          </h3>
+          <h4
+            className="schedule_location"
+          >
+            <i
+              className="material-icons"
+            >
+              location_on
+            </i>
+            Sala Tapioca
+          </h4>
+        </div>
+      </div>
+    </article>
+    <article
+      className="schedule_article"
+    >
+      <h5
+        className="schedule_time"
+      >
+        12h05
+      </h5>
+      <div
+        className="picture-container"
+      >
+        <div
+          className="schedule_picture"
+        />
+      </div>
+      <div
+        className="row w-100"
+      >
+        <div
+          className="schedule_info col-xl-3 col-lg-6 col-sm-12"
+        >
+          <h2
+            className="schedule_name w-100"
+          >
+            Bar
+          </h2>
+        </div>
+      </div>
+    </article>
+  </div>
+  <div
+    id="day20"
+  >
+    <div
+      className="day-separator tab-link"
+    >
+      Dia 
+      20
+       – 
+      <span>
+        Palestras
+      </span>
+    </div>
+    <article
+      className="schedule_article"
+    >
+      <h5
+        className="schedule_time"
+      >
+        12h05
+      </h5>
+      <div
+        className="picture-container"
+      >
+        <div
+          className="schedule_picture"
+        />
+      </div>
+      <div
+        className="row w-100"
+      >
+        <div
+          className="schedule_info col-xl-3 col-lg-6 col-sm-12"
+        >
+          <h2
+            className="schedule_name w-100"
+          >
+            Bar
+          </h2>
+        </div>
+      </div>
+    </article>
+  </div>
+  <div
+    id="day21"
+  >
+    <div
+      className="day-separator tab-link"
+    >
+      Dia 
+      21
+       – 
+      <span>
+        Palestras
+      </span>
+    </div>
+    <article
+      className="schedule_article"
+    >
+      <h5
+        className="schedule_time"
+      >
+        10h05
+      </h5>
+      <div
+        className="picture-container"
+      >
+        <div
+          className="schedule_picture"
+        />
+      </div>
+      <div
+        className="row w-100"
+      >
+        <div
+          className="schedule_info col-xl-3 col-lg-6 col-sm-12 schedule-highlight"
+        >
+          <h2
+            className="schedule_name"
+          >
+            Que belo dia para a ciência!
+          </h2>
+          <h3
+            className="schedule_speaker"
+          >
+            John Doe
+          </h3>
+          <h4
+            className="schedule_location"
+          >
+            <i
+              className="material-icons"
+            >
+              location_on
+            </i>
+            Sala Tapioca
+          </h4>
+        </div>
+      </div>
+    </article>
+    <article
+      className="schedule_article"
+    >
+      <h5
+        className="schedule_time"
+      >
+        12h05
+      </h5>
+      <div
+        className="picture-container"
+      >
+        <div
+          className="schedule_picture"
+        />
+      </div>
+      <div
+        className="row w-100"
+      >
+        <div
+          className="schedule_info col-xl-3 col-lg-6 col-sm-12"
+        >
+          <h2
+            className="schedule_name w-100"
+          >
+            Bar
+          </h2>
+        </div>
+      </div>
+    </article>
+  </div>
+</div>
+`;
