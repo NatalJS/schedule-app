@@ -46,7 +46,7 @@
     "jest": "^23.0.0",
     "jquery": "^3.2.1",
     "navigo": "^7.0.0",
-    "node-sass": "^4.5.3",
+    "node-sass": "^7.0.0",
     "postcss-loader": "^2.0.6",
     "react-popover": "^0.5.7",
     "react-test-renderer": "^16.4.2",
